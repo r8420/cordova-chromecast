@@ -1,4 +1,5 @@
 # DISCLAIMER
+Fixed crash on startup
 This repo is no longer maintained. If you want to contribute, feel free to submit PR's.
 
 
@@ -27,7 +28,7 @@ https://github.com/exozet/cordova-chromecast.git
 For now, add the plugin from this repository.
 
 ```
-cordova plugin add https://github.com/nbabanov/cordova-chromecast.git
+cordova plugin add https://github.com/r8420/cordova-chromecast.git
 ```
 
 If you have NodeJS installed, the dependencies should be automatically copied.
