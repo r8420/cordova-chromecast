@@ -39,7 +39,6 @@
 
     <framework src="com.google.android.gms:play-services-gcm:+" />
     <framework src="com.google.android.gms:play-services-cast:+" />
-    <framework src="com.google.android.gms:play-services-ads:+" />
     <framework src="com.android.support:appcompat-v7:21+" />
     <framework src="com.android.support:mediarouter-v7:21+" />
 
