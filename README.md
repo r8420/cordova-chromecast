@@ -1,5 +1,6 @@
 # DISCLAIMER
-Fixed crash on startup
+I updated the plugin so it doesn't crash anymore on startup.
+
 This repo is no longer maintained. If you want to contribute, feel free to submit PR's.
 
 
